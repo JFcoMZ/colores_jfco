@@ -1,6 +1,6 @@
 rojo_pastel
 azul_pastel
-amarillo_pastel
+amarillo_mate
 negro_mate
 morado_mate
 verde_mate
