@@ -1,10 +1,10 @@
 rojo_pastel
 azul_pastel
 amarillo_pastel
-negro_pastel
-morado_pastel
-verde_pastel
-naranja_pastel
+negro_mate
+morado_mate
+verde_mate
+naranja_mate
 
 gris_mate
 café_mate
