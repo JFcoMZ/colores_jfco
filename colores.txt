@@ -8,3 +8,4 @@ naranja_pastel
 
 gris_pastel
 café_pastel
+cian_pastel
