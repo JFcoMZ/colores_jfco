@@ -1,5 +1,5 @@
-rojo_pastel
-azul_pastel
+rojo_mate
+azul_mate
 amarillo_mate
 negro_mate
 morado_mate
