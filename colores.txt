@@ -6,5 +6,5 @@ morado_pastel
 verde_pastel
 naranja_pastel
 
-gris
-café
+gris_pastel
+café_pastel
