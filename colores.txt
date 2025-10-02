@@ -5,3 +5,6 @@ negro
 morado
 verde
 naranja
+
+gris
+café
