@@ -1,10 +1,10 @@
-rojo
-azul
-amarillo
-negro
-morado
-verde
-naranja
+rojo_pastel
+azul_pastel
+amarillo_pastel
+negro_pastel
+morado_pastel
+verde_pastel
+naranja_pastel
 
 gris
 café
