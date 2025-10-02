@@ -8,3 +8,5 @@ naranja
 
 gris
 café
+cian
+esmeralda
