@@ -2,3 +2,6 @@ rojo
 azul
 amarillo
 negro
+morado
+verde
+naranja
